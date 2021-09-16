@@ -1,5 +1,5 @@
 for i in range(10):
     for j in range(0, i+1):
-        print("A", end="")
+        print("Ab", end="")
 
     print()
